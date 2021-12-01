@@ -1,6 +1,6 @@
 # Add shared mailbox in Microsoft Outlook
 
-This will explain how-to add and shared or additional mailbox to your Microsoft Outlook profile. The following screenshot is from Windows 11 (build 22000.318)
+This will explain how-to add a shared or additional mailbox to your Microsoft Outlook profile. The following screenshot is from Windows 11 (build 22000.318)
 
 1. Click on "**Start**" (Windows icon) on the desktop.
 
