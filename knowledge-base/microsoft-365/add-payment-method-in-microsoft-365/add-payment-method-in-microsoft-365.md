@@ -14,7 +14,7 @@ This will show how-to setup an credit card as a payment method in Microsoft 365.
 
    ![](media/type-password.png)
 
-4. Expand "**Billing**", click "Bills & payments", choose the "**Payment methods**"-tab, and then click on "**Add a payment method**".
+4. Expand "**Billing**", click "**Bills & payments**", choose the "**Payment methods**"-tab, and then click on "**Add a payment method**".
 
    ![](media/navigate-to-payment-methods.png)
 
