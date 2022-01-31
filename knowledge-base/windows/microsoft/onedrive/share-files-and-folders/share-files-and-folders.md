@@ -1,4 +1,4 @@
-# 'Share files and folders with Microsoft OneDrive
+# Share files and folders with Microsoft OneDrive
 
 This will demonstrate how to share files and folders through Microsoft OneDrive in Windows. The following screenshot is from Windows 11 (build 22000.318)
 
