@@ -34,7 +34,7 @@ This will explain how-to add a shared or additional mailbox to your Microsoft Ou
 
    ![image-20211201150545590](media/click-advancedandadd.png)
 
-9. (Optional) For large mailboxes it's recommended that you turn off caching off. Uncheck "**Download shared folders**".
+9. (Optional) For large mailboxes it's recommended that you turn off caching. Uncheck "**Download shared folders**".
 
    ![image-20220203093208754](media/turn-caching-off.png)
 
