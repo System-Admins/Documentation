@@ -1,4 +1,4 @@
-# Access webmail through Microsoft 365
+# How to sign in to Outlook on the web
 
 This will show how to access Outlook (OWA) webmail through Microsoft 365. Your company account needs at least an [Exchange Online Plan 1 license](https://www.microsoft.com/en-us/microsoft-365/exchange/exchange-online?market=dk) applied. Depending on company policy webmail can be blocked.
 
